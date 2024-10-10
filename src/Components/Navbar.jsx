@@ -10,7 +10,7 @@ const Navbar = () => {
     };
 
     return (
-        <nav className="bg-[#f8f8f5] border-b px-4 py-4 lg:px-16 flex items-center justify-between">
+        <nav className="bg-[#f8f8f5] border-b px-4 py-4 lg:px-16 flex items-center justify-between sticky top-0 z-50">
             <div className="text-5xl font-serif text-[#11302b]">FERVORO</div>
 
             {/* Desktop Menu - Hidden on small screens */}

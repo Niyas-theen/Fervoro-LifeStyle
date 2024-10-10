@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
     return (
-        <section className="relative bg-white">
+        <section className="relative bg-[#f8f8f5]">
             <div className="w-full h-full">
                 <img
                     src="MainBanner.jpg" // Replace with the actual image URL
