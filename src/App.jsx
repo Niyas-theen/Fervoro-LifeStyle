@@ -4,6 +4,8 @@ import Hero from './Components/Hero'
 import Categories from './Components/Categories'
 import ExploreSection from './Components/ExploreSection'
 import AboutUs from './Components/AboutUs'
+import NewCc from './Components/NewCc'
+import NewSeasonSection from './Components/NewSeasonSection'
 
 
 const App = () => {
@@ -14,6 +16,8 @@ const App = () => {
       <Categories />
       <AboutUs />
       <ExploreSection />
+      <NewCc />
+      <NewSeasonSection />
     </div>
 
   )
