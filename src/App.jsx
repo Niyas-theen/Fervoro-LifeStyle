@@ -6,6 +6,8 @@ import ExploreSection from './Components/ExploreSection'
 import AboutUs from './Components/AboutUs'
 import NewCc from './Components/NewCc'
 import NewSeasonSection from './Components/NewSeasonSection'
+import LifeSyle from './Components/LifeSyle'
+import Footer from './Components/Footer'
 
 
 const App = () => {
@@ -18,6 +20,8 @@ const App = () => {
       <ExploreSection />
       <NewCc />
       <NewSeasonSection />
+      <LifeSyle />
+      <Footer />
     </div>
 
   )

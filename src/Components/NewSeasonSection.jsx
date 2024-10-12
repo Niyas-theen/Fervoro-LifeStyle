@@ -2,8 +2,8 @@ import React from 'react'
 
 const NewSeasonSection = () => {
     return (
-        <div className='bg-[#f9f9f6] flex flex-col justify-center items-center p-6'>
-            <div className=' flex flex-nowrap gap-2'>
+        <div className='bg-[#f9f9f6] flex flex-col justify-center items-center p-6 '>
+            <div className=' flex flex-nowrap gap-2 md:grid'>
                 <img src="./polo.jpg" alt="" className='w-[49%] object-cover' />
                 <img src="./striped.jpg" alt="" className='w-[49%] object-cover' />
             </div>
