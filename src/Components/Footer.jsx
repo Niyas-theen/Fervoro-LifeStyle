@@ -31,6 +31,9 @@ const Footer = () => {
                 </div>
                 <hr className='border-[#11302b]' />
             </div>
+            <div className="text-center font-serif text-[#11302b] text-sm px-5 py-3">
+                © Copyright 2024 All Rights Reserved Designed & Developed by Zeal Designing Studio
+            </div>
         </div>
     )
 }
